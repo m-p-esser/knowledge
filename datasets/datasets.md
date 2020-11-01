@@ -4,11 +4,11 @@
 
 ## Primary criteria
 
-Purpose — was the dataset collected for a similar purpose to yours?
-Competence — do you trust the team who collected the data to take measurements in a competent fashion?
-Agenda — do you trust the dataset not to be tainted by the biases and agendas of its authors?
-Clarity — is there clear documentation to prevent you from misinterpreting the contents of the dataset?
-Processing — are you sure the dataset hasn’t been transformed, skewed, or otherwise tampered with?
+- Purpose — was the dataset collected for a similar purpose to yours?
+- Competence — do you trust the team who collected the data to take measurements in a competent fashion?
+- Agenda — do you trust the dataset not to be tainted by the biases and agendas of its authors?
+- Clarity — is there clear documentation to prevent you from misinterpreting the contents of the dataset?
+- Processing — are you sure the dataset hasn’t been transformed, skewed, or otherwise tampered with?
 
 ## Additional questions to ask
 
