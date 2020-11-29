@@ -1,4 +1,8 @@
-# Notes
+---
+modified: 2020-11-29T23:31:45+01:00
+---
+
+# Pandas
 
 Pandas is a popular Python package for data manipulation and analysis.
 
