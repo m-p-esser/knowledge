@@ -1,4 +1,8 @@
-# Notes
+---
+modified: 2020-11-29T23:30:42+01:00
+---
+
+# Evaluation guide for external data sources
 
 > Inherited data are easier to get but harder to trust.
 
