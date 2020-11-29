@@ -1,4 +1,8 @@
-# Notes
+---
+modified: 2020-11-29T23:31:34+01:00
+---
+
+# Definition Data Analytics
 
 > Data analytics is the science of analyzing raw data in order to make conclusions about that information
 
