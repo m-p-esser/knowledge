@@ -1,8 +1,12 @@
 ---
-modified: 2020-11-29T23:31:34+01:00
+modified: 2020-12-10T23:44:20+01:00
 ---
 
 # Definition Data Analytics
+
+- Be sceptical of data
+- Don't polish rubbish, don't visualize from every angle - only where it's necessary
+- Get to know your business leader / decision maker, what are his goals, ambitions, visions for the future
 
 > Data analytics is the science of analyzing raw data in order to make conclusions about that information
 
