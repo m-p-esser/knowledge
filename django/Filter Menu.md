@@ -1,6 +1,6 @@
 ---
 created: 2020-12-23T23:53:47+01:00
-modified: 2020-12-24T00:32:52+01:00
+modified: 2020-12-24T13:27:15+01:00
 ---
 
 # Filter Menu
@@ -19,5 +19,7 @@ https://django-filter.readthedocs.io/en/stable/ref/filters.html#modelmultiplecho
 
 Crispy Forms
 https://spapas.github.io/2020/03/18/django-crispy-form-quick-easy-layout/
-
 https://simpleisbetterthancomplex.com/tutorial/2018/11/28/advanced-form-rendering-with-django-crispy-forms.html
+
+Filter by multiple selected options
+https://www.iditect.com/how-to/56897321.html
