@@ -1,14 +1,22 @@
 ---
 created: 2020-12-23T23:53:47+01:00
-modified: 2020-12-25T16:25:00+01:00
+modified: 2020-12-25T17:31:18+01:00
 ---
 
 # Filter Menu
 
+## Requirements
+
+- Ein- und ausklappbares Filter Menü
+- Anzeige,  in der ausgewählte Filter angezeigt werden
+- Möglichkeit Filter zurücksetzen
+    - Selektiv über 'X' in Filteranzeige
+    - Zurücksetzen aller Filter über einzelnen Button
+- Mehrfachauswahl bei Filter mit mehreren Kategorien
+
 Examples (Screens)
 ![Image](./image_picker636149587.jpg)
 ![Image](./image_picker145234395.jpg)
-
 
 django-filter: https://sodocumentation.net/de/django/topic/6101/django-filter
 
