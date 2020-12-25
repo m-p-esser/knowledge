@@ -1,6 +1,6 @@
 ---
 created: 2020-12-23T23:53:47+01:00
-modified: 2020-12-24T13:44:24+01:00
+modified: 2020-12-25T16:25:00+01:00
 ---
 
 # Filter Menu
@@ -8,6 +8,7 @@ modified: 2020-12-24T13:44:24+01:00
 Examples (Screens)
 ![Image](./image_picker636149587.jpg)
 ![Image](./image_picker145234395.jpg)
+
 
 django-filter: https://sodocumentation.net/de/django/topic/6101/django-filter
 
