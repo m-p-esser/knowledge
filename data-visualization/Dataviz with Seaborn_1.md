@@ -1,6 +1,6 @@
 ---
 created: 2020-12-23T23:48:51+01:00
-modified: 2020-12-26T15:47:18+01:00
+modified: 2020-12-26T15:47:43+01:00
 ---
 
 # Dataviz with Plotly
@@ -25,5 +25,6 @@ fig.update_layout(layout_parameters or add annotations)
 fig.update_traces(further graph parameters)
 fig.update_xaxis() # or update_yaxis
 fig.show()
-Interesting links: 
+
+## Interesting links: 
 https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57
