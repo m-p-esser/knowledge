@@ -36,3 +36,9 @@ https://simpleisbetterthancomplex.com/tutorial/2018/11/28/advanced-form-renderin
 
 Filter by multiple selected options
 https://www.iditect.com/how-to/56897321.html
+
+Filter Records by multiple Fields
+https://www.google.com/search?client=ms-android-huawei&tbm=vid&sxsrf=ALeKk00guxMuE4_I1YTJINi1EfN7l00EHQ:1608914541096&q=django+form+filter&sa=X&ved=2ahUKEwjmnMjdyentAhXQhqQKHVMkDf8Q8ccDKAR6BAgpEC0&biw=360&bih=580&dpr=3#
+
+Multiple Model Search
+https://www.codingforentrepreneurs.com/blog/a-multiple-model-django-search-engine
