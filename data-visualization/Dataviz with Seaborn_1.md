@@ -1,22 +1,22 @@
 ---
 created: 2020-12-23T23:48:51+01:00
-modified: 2020-12-26T12:37:33+01:00
+modified: 2020-12-26T15:47:18+01:00
 ---
 
 # Dataviz with Plotly
 
-What type of APIs are there?
+## What type of APIs are there?
 Plotly.Express is a high level library which abstracts the process of plotting.
 
-What are they major components in every diagram?
+## What are they major components in every diagram?
 
-What are additional notable components?
+## What are additional notable components?
 
-How can these components be configured?
+## How can these components be configured?
 
-How can plots be saved as flat files, e.g. pngs? 
+## How can plots be saved as flat files, e.g. pngs? 
 
-Are there predefined colour palettes and diagram backgrounds as in Seaborn?
+## Are there predefined colour palettes and diagram backgrounds as in Seaborn?
 
 ## How do you proceed when plotting
 
