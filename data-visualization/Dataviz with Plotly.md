@@ -1,6 +1,6 @@
 ---
 created: 2020-12-23T23:48:51+01:00
-modified: 2020-12-26T15:49:22+01:00
+modified: 2020-12-28T09:40:28+01:00
 ---
 
 # Dataviz with Plotly
@@ -25,6 +25,9 @@ fig.update_layout(layout_parameters or add annotations)
 fig.update_traces(further graph parameters)
 fig.update_xaxis() # or update_yaxis
 fig.show()
+
+## How to save plotly offline?
+https://stackoverflow.com/questions/36262748/python-save-plotly-plot-to-local-file-and-insert-into-html
 
 ## Where can parameter for a plot be found:
 There is an API reference, here is an example for a line plot https://plotly.com/python-api-reference/generated/plotly.express.line.html
